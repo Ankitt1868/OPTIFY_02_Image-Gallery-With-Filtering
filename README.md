@@ -18,7 +18,7 @@ The Filterable Image Gallery is a web application that allows users to browse an
 
 ## Demo
 
-Check out the live demo [here]([https://github.com/Scoderankit/OPTIFY_Image-Gallery-With-Filtering]).
+Check out the live demo [here](https://github.com/Scoderankit/OPTIFY_Image-Gallery-With-Filtering).
 
 
 ## Usage
