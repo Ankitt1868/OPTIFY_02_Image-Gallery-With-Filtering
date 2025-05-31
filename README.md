@@ -40,3 +40,9 @@ Feel free to customize the gallery by following these steps:
 2.Modify the categories and tags to fit your image collection.
 
 3.Update the styling in the CSS file to match your desired design.
+
+# Contact
+For any inquiries, reach out at [actorankit6386@gmail.com].
+- GitHub: @Scoderankit.
+- Linkedin: linkedin.com/in/ankit-tiwari0123.
+- Instagram: @ankit_1868.
