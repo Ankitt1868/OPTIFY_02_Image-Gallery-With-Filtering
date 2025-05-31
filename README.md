@@ -1,5 +1,5 @@
 
-# OPTIFY_01_Image-Gallery-With-Filtering Web-Application
+# OPTIFY_02_Image-Gallery-With-Filtering Web-Application
 A filterable image gallery built with HTML, CSS, and JavaScript.
 
 preview 
