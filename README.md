@@ -2,8 +2,7 @@
 # OPTIFY_02_Image-Gallery-With-Filtering Web-Application
 A filterable image gallery built with HTML, CSS, and JavaScript.
 
-preview 
-https://github.com/Scoderankit/OPTIFY_Image-Gallery-With-Filtering
+
 ## Description
 
 The Filterable Image Gallery is a web application that allows users to browse and filter images based on different categories or tags. It provides an interactive and visually appealing way to showcase a collection of images.
@@ -18,8 +17,7 @@ The Filterable Image Gallery is a web application that allows users to browse an
 
 ## Demo
 
-Check out the live demo [here]
-(https://scoderankit.github.io/OPTIFY_02_Image-Gallery-With-Filtering)
+Check out the live demo [here](https://ankitt1868.github.io/OPTIFY_02_Image-Gallery-With-Filtering/)
 
 
 ## Usage
